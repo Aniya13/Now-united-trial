@@ -1,0 +1,48 @@
+body{
+    background-image: url("background.png");
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color:darkcyan;
+}
+p{
+    color:crimson;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+h5{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+h6{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    font-size: xx-large;
+    background-color: darkcyan;
+}
+
+
+
